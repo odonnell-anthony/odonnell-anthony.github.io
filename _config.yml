@@ -12,9 +12,10 @@ sass:
 plainwhite:
   name: Anthony O'Donnell
   tagline: Software Tester
-  date_format: "%b %-d, %Y"
+  date_format: "%d %b %Y"
   sitemap: true # set to true to generate sitemap.xml content
   analytics_id: UA-76033218-5
+  disqus_shortname: anthonyodonnell
 
   # generate social links in footer
   social_links:
