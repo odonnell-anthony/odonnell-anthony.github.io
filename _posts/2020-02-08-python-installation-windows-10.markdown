@@ -2,7 +2,7 @@
 layout: post
 title:  "Installation of Python on Windows 10 "
 date:   08-02-2020
-categories: python, installation, windows 10
+categories: python installation windows
 ---
 ### Installation of Python on Windows 10 
 
