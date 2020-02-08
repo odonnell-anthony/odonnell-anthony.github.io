@@ -4,7 +4,7 @@ title:  "Installation of Python on Windows 10 "
 date:   08-02-2020
 categories: python, installation, windows 10
 ---
-# Installation of Python on Windows 10 
+### Installation of Python on Windows 10 
 
 To use Robot Framework, we first need to install python.
 
