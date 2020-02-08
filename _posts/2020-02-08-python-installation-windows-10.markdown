@@ -5,12 +5,13 @@ date:   08-02-2020
 categories: python installation windows
 ---
 ### Installation of Python on Windows 10 
+![pythonlogo](https://www.python.org/static/img/python-logo.png "pythonlogo")
 
-To use Robot Framework, we first need to install python.
+To use Robot Framework, we first need to install Python...
 
-Newer versions of Robot framework will only support python 3.6 and above (at time of writing 2.7 and 3.3 are supported, to be dropped in 2021), below we will download and install the latest version of Python 3
+Newer versions of Robot framework will only support Python 3.6 and above (at time of writing 2.7 and 3.3+ are supported but they are to be dropped in 2021), below we will download and install the latest version of Python 3
 
-Before we install python we need to know what the architecture of our computers processor and our installed operating system is, this could be 32bit or 64bit and we will want to download the correct matching python installer. 
+Before we install Python we need to know what the architecture of our computers processor and our installed operating system is, this could be 32bit or 64bit and we will want to download the correct matching python installer. 
 
 We can check what we type of operating system we have by pressing the windows key and typing ```control``` then from the results select control panel.
 
