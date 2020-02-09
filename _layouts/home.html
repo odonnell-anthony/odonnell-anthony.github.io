@@ -13,7 +13,24 @@ layout: default
     <li>
       <h1 id="posts-label">posts</h1>
     </li>
-
+<!-- Html Elements for Search -->
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="Search by post title or category...">
+  <div id="results-container"></div>
+  </div>
+  
+<!-- Script pointing to search-script.js -->
+  <script src="/assets/js/search-script.js" type="text/javascript"></script>
+  
+<!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/assets/js/search.json'
+  })
+</script>
+<!-- End Search -->
     {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%d %b %Y" -%}

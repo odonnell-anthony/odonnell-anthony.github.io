@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Test Post"
-date:   07-02-2020
-categories: test
+layout:         post
+title:          "Test Post"
+date:           07-02-2020
+categories:     blog software testing robotframework
 ---
 **Test Post** software testing, robot framework, how to, guide, installation, test automation
 
