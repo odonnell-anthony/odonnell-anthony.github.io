@@ -101,6 +101,8 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 td, th { padding: 0; }
 
+#privacy {text-align: center; padding-bottom: 0; margin-bottom: 0;}
+
 /* Solarized Light 
 For use with Jekyll and Pygments
 http://ethanschoonover.com/solarized
